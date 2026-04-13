@@ -1,3 +1,12 @@
 .DS_Store
 .venv
 
+lab06/cifar_root/cifar-10-batches-py/test_batch
+lab06/cifar_root/cifar-10-batches-py/readme.html
+lab06/cifar_root/cifar-10-batches-py/data_batch_5
+lab06/cifar_root/cifar-10-batches-py/data_batch_4
+lab06/cifar_root/cifar-10-batches-py/data_batch_3
+lab06/cifar_root/cifar-10-batches-py/data_batch_1
+lab06/cifar_root/cifar-10-batches-py/data_batch_2
+lab06/cifar_root/cifar-10-batches-py/batches.meta
+lab06/cifar_root/cifar-10-python.tar.gz
