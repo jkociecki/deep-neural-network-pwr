@@ -1,0 +1,23 @@
+artifact_path: /home/kociecki/repos/studia/deep-neural-network-pwr/lab06/mlruns/0/models/m-48d8a85ae2054091bbbb092ebff1f056/artifacts
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.12.3
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.11.0+cu130
+mlflow_version: 3.11.1
+model_id: m-48d8a85ae2054091bbbb092ebff1f056
+model_size_bytes: 324387
+model_uuid: m-48d8a85ae2054091bbbb092ebff1f056
+prompts: null
+run_id: 05f70054a6e442aaa99dbcccaf77220e
+utc_time_created: '2026-04-15 17:47:57.314076'
