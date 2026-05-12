@@ -12,3 +12,4 @@ torchvision
 tensorboard
 tqdm
 mlflow
+aoen
