@@ -13,3 +13,5 @@ lab06/cifar_root/cifar-10-python.tar.gz
 
 lab07/cifar_root/
 lab08/root/
+lab09/insect_data/InsectWingbeat/InsectWingbeat_TEST.ts
+lab09/insect_data/InsectWingbeat/InsectWingbeat_TRAIN.ts
