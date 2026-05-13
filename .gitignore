@@ -15,3 +15,7 @@ lab07/cifar_root/
 lab08/root/
 lab09/insect_data/InsectWingbeat/InsectWingbeat_TEST.ts
 lab09/insect_data/InsectWingbeat/InsectWingbeat_TRAIN.ts
+lab09/insect_data/InsectWingbeat/InsectWingbeat_eq_TEST.ts
+lab09/insect_data/InsectWingbeat/InsectWingbeat_eq_TRAIN.ts
+lab09/insect_data/InsectWingbeat/InsectWingbeat.txt
+lab09/insect_data/InsectWingbeat/InsectWingbeat.jpg
